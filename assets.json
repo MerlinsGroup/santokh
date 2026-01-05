@@ -1,11 +1,75 @@
 {
   "client": "santokh",
-  "updated_at": "2026-01-05T11:37:44.152Z",
+  "updated_at": "2026-01-05T11:59:58.915Z",
   "assets": {
     "hero": [
       {
         "filename": "pluto-logo (1).png",
         "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/santokh/hero/pluto-logo-1.png"
+      },
+      {
+        "filename": "BRI00243_BRI00264 copy.jpg",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/santokh/hero/BRI00243_BRI00264-copy.jpg"
+      },
+      {
+        "filename": "BRI00306_BRI00318 copy.jpg",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/santokh/hero/BRI00306_BRI00318-copy.jpg"
+      },
+      {
+        "filename": "light copy.jpg",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/santokh/hero/light-copy.jpg"
+      },
+      {
+        "filename": "BRI00265_BRI00280 copy.jpg",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/santokh/hero/BRI00265_BRI00280-copy.jpg"
+      },
+      {
+        "filename": "BRI00291_BRI00305 copy.jpg",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/santokh/hero/BRI00291_BRI00305-copy.jpg"
+      },
+      {
+        "filename": "BRI00321_BRI00334 copy.jpg",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/santokh/hero/BRI00321_BRI00334-copy.jpg"
+      },
+      {
+        "filename": "BRI00352_BRI00365 copy.jpg",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/santokh/hero/BRI00352_BRI00365-copy.jpg"
+      },
+      {
+        "filename": "BRI00092_BRI00114 copy.jpg",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/santokh/hero/BRI00092_BRI00114-copy.jpg"
+      },
+      {
+        "filename": "BRI00115_BRI00135 copy.jpg",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/santokh/hero/BRI00115_BRI00135-copy.jpg"
+      },
+      {
+        "filename": "BRI00136_BRI00148 copy.jpg",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/santokh/hero/BRI00136_BRI00148-copy.jpg"
+      },
+      {
+        "filename": "BRI00149_BRI00161 copy.jpg",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/santokh/hero/BRI00149_BRI00161-copy.jpg"
+      },
+      {
+        "filename": "BRI00166_BRI00181 copy.jpg",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/santokh/hero/BRI00166_BRI00181-copy.jpg"
+      },
+      {
+        "filename": "BRI00182_BRI00193 copy.jpg",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/santokh/hero/BRI00182_BRI00193-copy.jpg"
+      },
+      {
+        "filename": "BRI00197_BRI00214 copy.jpg",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/santokh/hero/BRI00197_BRI00214-copy.jpg"
+      },
+      {
+        "filename": "BRI00521_BRI00537 copy.jpg",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/santokh/hero/BRI00521_BRI00537-copy.jpg"
+      },
+      {
+        "filename": "BRI00540_BRI00556 copy.jpg",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/santokh/hero/BRI00540_BRI00556-copy.jpg"
       }
     ],
     "home": [
