@@ -1,11 +1,23 @@
 {
   "client": "santokh",
-  "updated_at": "2026-01-05T11:37:03.151Z",
+  "updated_at": "2026-01-05T11:37:44.152Z",
   "assets": {
     "hero": [
       {
         "filename": "pluto-logo (1).png",
         "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/santokh/hero/pluto-logo-1.png"
+      }
+    ],
+    "home": [
+      {
+        "filename": "ssanika_all_jewelry_pieces_together_necklace_earrings_bracelet__fba54a53-7903-46d5-8d07-f7c53ef240a6.png",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/santokh/home/ssanika_all_jewelry_pieces_together_necklace_earrings_bracelet__fba54a53-7903-46d5-8d07-f7c53ef240a6.png"
+      }
+    ],
+    "about": [
+      {
+        "filename": "brady0411_dark_background_with_jewelry_glitter_and_a_pocket_kni_4c94117a-9e46-49cd-8eae-22cfb8c146de.png",
+        "url": "https://pub-7713e6b0ef0f4cd494d9e7933a0f667b.r2.dev/santokh/about/brady0411_dark_background_with_jewelry_glitter_and_a_pocket_kni_4c94117a-9e46-49cd-8eae-22cfb8c146de.png"
       }
     ]
   }
